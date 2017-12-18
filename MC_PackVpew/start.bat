@@ -1,0 +1,1 @@
+javaw -jar -Xms2G -Xmx4G -d64 forge-1.7.10-10.13.4.1558-1.7.10-universal.jar 
